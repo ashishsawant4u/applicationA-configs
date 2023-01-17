@@ -1,0 +1,2 @@
+config.feature.paybycard.enable=true
+config.payment.api.key=PPR_9320u239-r3j-j239-dj32d032d-32d-3223
